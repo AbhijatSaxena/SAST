@@ -1,0 +1,1 @@
+set CLASSPATH=%CLASSPATH%;c:\jdk1.3.0_02\lib;c:\j2sdkee1.2.1\lib;c:\j2sdkee1.2.1\lib\j2ee.jar;.;
